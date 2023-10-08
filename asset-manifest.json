@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/KryptoTrackr/static/js/main.de8dc3df.js",
+    "static/media/btc.png": "/KryptoTrackr/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/bobbani.jpg": "/KryptoTrackr/static/media/bobbani.f07a7d163c91a8b376e1.jpg",
+    "static/media/Sam.jpg": "/KryptoTrackr/static/media/Sam.4b82e0e7815ff9996b69.jpg",
+    "static/media/jay.jpeg": "/KryptoTrackr/static/media/jay.ff639f59f878b9bab833.jpeg",
+    "static/media/tanwar.jpg": "/KryptoTrackr/static/media/tanwar.091014a2bc91c45a4942.jpg",
+    "index.html": "/KryptoTrackr/index.html",
+    "main.de8dc3df.js.map": "/KryptoTrackr/static/js/main.de8dc3df.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.de8dc3df.js"
+  ]
+}
